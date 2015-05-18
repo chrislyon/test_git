@@ -1,0 +1,23 @@
+total 73
+drwxrwxr-x  2 root root  4096 mai    7 16:23 bin
+drwxr-xr-x  4 root root  1024 mai    7 16:24 boot
+drwxr-xr-x 18 root root  3040 mai   18 17:29 dev
+drwxr-xr-x 89 root root  4096 mai   18 17:29 etc
+drwxr-xr-x  4 root root  4096 mai    7 16:24 home
+lrwxrwxrwx  1 root root    31 mai    7 16:10 initrd.img -> /boot/initrd.img-3.16.0-4-amd64
+drwxr-xr-x 15 root root  4096 mai    7 16:22 lib
+drwxr-xr-x  2 root root  4096 mai    7 16:08 lib64
+drwx------  2 root root 16384 mai    7 16:08 lost+found
+drwxr-xr-x  3 root root  4096 mai    7 16:08 media
+drwxr-xr-x  2 root root  4096 mai    7 16:08 mnt
+drwxr-xr-x  2 root root  4096 mai    7 16:08 opt
+dr-xr-xr-x 86 root root     0 mai   18 17:29 proc
+drwx------  3 root root  4096 mai    7 16:50 root
+drwxr-xr-x 18 root root   720 mai   18 17:29 run
+drwxr-xr-x  2 root root  4096 mai    7 16:24 sbin
+drwxr-xr-x  2 root root  4096 mai    7 16:08 srv
+dr-xr-xr-x 13 root root     0 mai   18 17:42 sys
+drwxrwxrwt  7 root root  4096 mai   18 17:40 tmp
+drwxr-xr-x 10 root root  4096 mai    7 16:08 usr
+drwxr-xr-x 11 root root  4096 mai    7 16:08 var
+lrwxrwxrwx  1 root root    27 mai    7 16:10 vmlinuz -> boot/vmlinuz-3.16.0-4-amd64
